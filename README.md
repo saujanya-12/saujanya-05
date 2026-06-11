@@ -56,9 +56,9 @@ Welcome to my GitHub profile! I am a dedicated developer with a strong interest 
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: saujanyashedbal2gmail.com
+* GitHub: https://github.com/saujanya-12 
+* LinkedIn: https://www.linkedin.com/in/saujanya-shedbal-354508298
+* Email: saujanyashedbal@gmail.com
 
   ## ⭐ Motto
 
