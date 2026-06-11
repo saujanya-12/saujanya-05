@@ -1,5 +1,5 @@
 # saujanya-05
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Saujanya Shedbal
 
 ### Passionate Developer | Problem Solver | Technology Enthusiast
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a dedicated developer with a strong interest 
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+## Programming Languages
 
 * C
 * C++
@@ -24,19 +24,17 @@ Welcome to my GitHub profile! I am a dedicated developer with a strong interest 
 * Python
 * JavaScript
 
-### Web Development
+## Web Development
 
-* HTML5
-* CSS3
+* HTML
 * JavaScript
-* React
 
 ### Databases
 
 * MySQL
-* MongoDB
+* Oracle
 
-### Tools & Technologies
+## Tools & Technologies
 
 * Git
 * GitHub
@@ -60,8 +58,8 @@ Welcome to my GitHub profile! I am a dedicated developer with a strong interest 
 
 * GitHub: https://github.com/yourusername
 * LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: saujanyashedbal2gmail.com
 
-## ⭐ Motto
+  ## ⭐ Motto
 
-"Code, Learn, Improve, Repeat."
+  "Code, Learn, Improve, Repeat."
